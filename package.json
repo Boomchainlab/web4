@@ -29,7 +29,7 @@
     "eslint-config-next": "15.4.5",
     "tailwindcss": "4.1.11",
     "typescript": "5.8.3",
-    "wrangler": "4.22.x"
+    "wrangler": "4.33.x"
   },
   "private": true,
   "scripts": {
